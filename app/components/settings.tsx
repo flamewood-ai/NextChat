@@ -1911,6 +1911,12 @@ export function Settings() {
         </List>
 
         <DangerItems />
+
+        <List>
+          <ListItem title={"烽林有限公司"}>
+            <p style={{ margin: 0 }}>統一編號:95490581</p>
+          </ListItem>
+        </List>
       </div>
     </ErrorBoundary>
   );
